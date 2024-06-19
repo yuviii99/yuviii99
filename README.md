@@ -5,9 +5,9 @@
 <hr>
 <div align="center">
 
-🔭 I’m currently working on [ANU College of Engineering Computing and Cybernetics websites](https://cecc.anu.edu.au/)
+🔭 Working on [ANU College of Engineering Computing and Cybernetics websites](https://cecc.anu.edu.au/)
 
-🌱 I’m currently learning **React Native**
+🌱 Actively learning **React Native**
 
 💬 Ask me about **java, python, django, react and APIs.**
 
