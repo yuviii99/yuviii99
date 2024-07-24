@@ -7,7 +7,7 @@
 
 🔭 Working on [ANU College of Engineering Computing and Cybernetics websites](https://cecc.anu.edu.au/)
 
-🌱 Actively learning **React Native**
+🌱 Actively learning **DevOps**
 
 💬 Ask me about **java, python, django, react and APIs.**
 
